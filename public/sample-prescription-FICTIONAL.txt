@@ -1,0 +1,21 @@
+=====================================================
+ *** SAMPLE ONLY - FICTIONAL - NOT A VALID PRESCRIPTION ***
+=====================================================
+Dr. Kalpana Imaginary, MBBS  (FICTIONAL DOCTOR)
+Demo Health Clinic  (not a real clinic)
+Reg. No: DEMO-000000
+
+Date: 06-11-2026
+Patient: Rohan Fictional-Verma  (FICTIONAL PATIENT)
+
+Rx
+1. Paracetamol 500 mg tablet ........ Qty: 10
+2. Cetirizine 10 mg tablet .......... Qty: 5
+3. Pantoprazole 40 mg tablet ........ Qty: 15
+4. Vitamin D3 60000 IU capsule ...... Qty: 4
+
+Typed sample for a software demo. Contains no dosing
+instructions and must not be used to dispense medicine.
+
+Signature: [DEMO - NOT SIGNED]
+=====================================================
